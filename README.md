@@ -6,6 +6,7 @@
 I’m a Backend Development Intern.
 
 My main focus is supporting the core logic and the 'engine' of our applications. On a daily basis, I work on:
+
 Maintenance & Debugging: I spend time analyzing logs and fixing bugs to improve system stability and performance
 ---
 
