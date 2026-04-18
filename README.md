@@ -27,7 +27,7 @@ Maintenance & Debugging: I spend time analyzing logs and fixing bugs to improve 
 ### Backend
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
-![Java](https://medium.com/programmers-blockchain/create-simple-blockchain-java-tutorial-from-scratch-6eeed3cb03fa)
+![Java](https://img.shields.io/badge/java-4479A1?style=for-the-badge&logo=java)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 
 ### DevOps & Tools
