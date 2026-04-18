@@ -10,6 +10,15 @@ Maintenance & Debugging: I spend time analyzing logs and fixing bugs to improve 
 
 ---
 
+## 🧠 What I do
+
+-    Bug Fixing & Maintenance
+-    Feature Development & APIs
+-    Database Management
+-    Studing Software Engineer
+
+---
+
 ## 🌐 Where to find me
 
 <p align="left">
