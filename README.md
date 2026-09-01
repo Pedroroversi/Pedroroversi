@@ -1,6 +1,6 @@
 # Hi 👋, I'm Pedro Henrique 
 
-🚀 **Software Engineer | python & Django**  
+🚀 **Software Engineer | Python & Django**  
 🇧🇷 Brazil
 
 I’m a Backend Development Intern.
